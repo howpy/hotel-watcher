@@ -1,0 +1,66 @@
+[
+  {
+    "_note": "Recent hotel promos discovered by the Hotel Watcher. New entries are appended by the daily watch job. Shape: {brand, title, type, summary, key_dates, official_url, source_urls, announced, first_seen, confidence}."
+  },
+  {
+    "brand": "Marriott",
+    "title": "Marriott Bonvoy Escapes weekend sale (November 2026 cycle): up to 20% off with code QRI",
+    "type": "rate_sale",
+    "summary": "Marriott Bonvoy 双周末闪购新一期（2026-11-04 发布）：会员标准房价 8 折（非会员 85 折），促销码 QRI，覆盖 2,600+ 家酒店，预付且不可取消/改期/退款。",
+    "key_dates": "须在 2026-11-08（周日）前预订；入住为 2026-11-29 前各周末（周四至周日，参与度假村全周可用）；提前至少 5 天预订。",
+    "official_url": "https://www.marriott.com/offers/last-minute-hotel-deals.mi",
+    "source_urls": [
+      "https://upgradedpoints.com/news/marriott-bonvoy-escapes/",
+      "https://thepointsparty.com/articles/marriott-20-percent-off-weekend-stays-november-2026"
+    ],
+    "announced": "2026-11-04",
+    "first_seen": "2026-11-06",
+    "confidence": "high"
+  },
+  {
+    "brand": "Marriott",
+    "title": "Marriott Bonvoy: 5,000 bonus points per stay at citizenM (code S2449)",
+    "type": "bonus_points",
+    "summary": "citizenM 专属加赠：每次入住（最少 2 晚）加赠 5,000 Bonvoy 积分，30 家参与酒店，促销码 S2449。注意：官方入住窗口自 2026-09-25 起，实际上线可能早于媒体公告日期。",
+    "key_dates": "2026-12-06 前预订；入住 2026-09-25 至 2026-12-13；最少 2 晚。",
+    "official_url": "https://www.marriott.com/offers/citizenm-get-5-000-bonus-points-per-stay-off-255026",
+    "source_urls": [
+      "https://blog.frequentflyerbonuses.com/2026/11/"
+    ],
+    "announced": "2026-11-05",
+    "first_seen": "2026-11-06",
+    "confidence": "medium"
+  },
+  {
+    "brand": "Marriott",
+    "title": "Chase Marriott Bonvoy Boundless card: 200,000-point welcome offer (one-week window)",
+    "type": "credit_card",
+    "summary": "Chase 于 2026-11-05 上线 Boundless 卡 200,000 积分迎新活动（AFR：'The offer launched today, November 5, and ends November 11, 2026'）：开卡后前 3 个月消费 $3,000，另含最高 $100 航空额度。属信用卡迎新奖励。",
+    "key_dates": "2026-11-05 至 2026-11-11；开卡后前 3 个月消费 $3,000。",
+    "official_url": "https://creditcards.chase.com/travel-credit-cards/marriott-bonvoy/boundless",
+    "source_urls": [
+      "https://www.afar.com/magazine/marriott-bonvoy-boundless-200-000-point-offer-ends-nov-11",
+      "https://www.pointsyeah.com/insider/credit-cards/current-marriott-bonvoy-boundless-welcome-offer"
+    ],
+    "announced": "2026-11-05",
+    "first_seen": "2026-11-06",
+    "confidence": "high"
+  },
+  {
+    "brand": "Hyatt",
+    "title": "World of Hyatt card: New welcome offer with four Category 1-4 free night certificates",
+    "type": "credit_card",
+    "summary": "Chase World of Hyatt 信用卡推出新欢迎礼遇：开卡后 3 个月内消费满 $5,000，获 4 张 Hyatt 1-4 类酒店免费夜券（每券价值约 $240-250，12 个月内有效），年费 $95。属信用卡迎新奖励。",
+    "key_dates": "礼遇自 2026-11-04/05 起在 Chase 卡页面生效；开卡后 3 个月内消费满 $5,000；免费夜券自发放起 12 个月内使用；无单独注册。",
+    "official_url": null,
+    "source_urls": [
+      "https://frequentmiler.com/world-of-hyatt-card-new-welcome-offer-with-four-category-1-4-free-night-certificates/",
+      "https://upgradedpoints.com/news/world-of-hyatt-card-offer-4-free-nights/",
+      "https://viewfromthewing.com/new-hyatt-credit-card-offer-earn-4-free-nights-why-i-spend-on-the-card-towards-elite-status/",
+      "https://dealsnfreebies.com/chase-world-of-hyatt-credit-card/"
+    ],
+    "announced": "2026-11-05",
+    "first_seen": "2026-11-06",
+    "confidence": "high"
+  }
+]
