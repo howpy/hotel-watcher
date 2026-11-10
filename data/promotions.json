@@ -1,66 +1,162 @@
-[
-  {
-    "_note": "Recent hotel promos discovered by the Hotel Watcher. New entries are appended by the daily watch job. Shape: {brand, title, type, summary, key_dates, official_url, source_urls, announced, first_seen, confidence}."
-  },
-  {
-    "brand": "Marriott",
-    "title": "Marriott Bonvoy Escapes weekend sale (November 2026 cycle): up to 20% off with code QRI",
-    "type": "rate_sale",
-    "summary": "Marriott Bonvoy 双周末闪购新一期（2026-11-04 发布）：会员标准房价 8 折（非会员 85 折），促销码 QRI，覆盖 2,600+ 家酒店，预付且不可取消/改期/退款。",
-    "key_dates": "须在 2026-11-08（周日）前预订；入住为 2026-11-29 前各周末（周四至周日，参与度假村全周可用）；提前至少 5 天预订。",
-    "official_url": "https://www.marriott.com/offers/last-minute-hotel-deals.mi",
-    "source_urls": [
-      "https://upgradedpoints.com/news/marriott-bonvoy-escapes/",
-      "https://thepointsparty.com/articles/marriott-20-percent-off-weekend-stays-november-2026"
-    ],
-    "announced": "2026-11-04",
-    "first_seen": "2026-11-06",
-    "confidence": "high"
-  },
-  {
-    "brand": "Marriott",
-    "title": "Marriott Bonvoy: 5,000 bonus points per stay at citizenM (code S2449)",
-    "type": "bonus_points",
-    "summary": "citizenM 专属加赠：每次入住（最少 2 晚）加赠 5,000 Bonvoy 积分，30 家参与酒店，促销码 S2449。注意：官方入住窗口自 2026-09-25 起，实际上线可能早于媒体公告日期。",
-    "key_dates": "2026-12-06 前预订；入住 2026-09-25 至 2026-12-13；最少 2 晚。",
-    "official_url": "https://www.marriott.com/offers/citizenm-get-5-000-bonus-points-per-stay-off-255026",
-    "source_urls": [
-      "https://blog.frequentflyerbonuses.com/2026/11/"
-    ],
-    "announced": "2026-11-05",
-    "first_seen": "2026-11-06",
-    "confidence": "medium"
-  },
-  {
-    "brand": "Marriott",
-    "title": "Chase Marriott Bonvoy Boundless card: 200,000-point welcome offer (one-week window)",
-    "type": "credit_card",
-    "summary": "Chase 于 2026-11-05 上线 Boundless 卡 200,000 积分迎新活动（AFR：'The offer launched today, November 5, and ends November 11, 2026'）：开卡后前 3 个月消费 $3,000，另含最高 $100 航空额度。属信用卡迎新奖励。",
-    "key_dates": "2026-11-05 至 2026-11-11；开卡后前 3 个月消费 $3,000。",
-    "official_url": "https://creditcards.chase.com/travel-credit-cards/marriott-bonvoy/boundless",
-    "source_urls": [
-      "https://www.afar.com/magazine/marriott-bonvoy-boundless-200-000-point-offer-ends-nov-11",
-      "https://www.pointsyeah.com/insider/credit-cards/current-marriott-bonvoy-boundless-welcome-offer"
-    ],
-    "announced": "2026-11-05",
-    "first_seen": "2026-11-06",
-    "confidence": "high"
-  },
-  {
-    "brand": "Hyatt",
-    "title": "World of Hyatt card: New welcome offer with four Category 1-4 free night certificates",
-    "type": "credit_card",
-    "summary": "Chase World of Hyatt 信用卡推出新欢迎礼遇：开卡后 3 个月内消费满 $5,000，获 4 张 Hyatt 1-4 类酒店免费夜券（每券价值约 $240-250，12 个月内有效），年费 $95。属信用卡迎新奖励。",
-    "key_dates": "礼遇自 2026-11-04/05 起在 Chase 卡页面生效；开卡后 3 个月内消费满 $5,000；免费夜券自发放起 12 个月内使用；无单独注册。",
-    "official_url": null,
-    "source_urls": [
-      "https://frequentmiler.com/world-of-hyatt-card-new-welcome-offer-with-four-category-1-4-free-night-certificates/",
-      "https://upgradedpoints.com/news/world-of-hyatt-card-offer-4-free-nights/",
-      "https://viewfromthewing.com/new-hyatt-credit-card-offer-earn-4-free-nights-why-i-spend-on-the-card-towards-elite-status/",
-      "https://dealsnfreebies.com/chase-world-of-hyatt-credit-card/"
-    ],
-    "announced": "2026-11-05",
-    "first_seen": "2026-11-06",
-    "confidence": "high"
-  }
-]
+{
+  "last_updated": "2026-11-10T09:02:12Z",
+  "note": "Hotel Watcher — recently found loyalty promos. New entries append on top daily (newest first). No credit-card promo entries; the four already published are the baseline (the two CC ones are grandfathered). 2026-11-10: + IHG voco/Garner 3X extension, IHG Iberostar 50K (targeted Nov wave); backfilled 5 entries the 11-08/11-09 notification runs failed to append.",
+  "promos": [
+    {
+      "brand": "IHG",
+      "title": "IHG One Rewards: up to 50,000 bonus points for 4 consecutive nights at Iberostar Beachfront Resorts (targeted, November wave)",
+      "type": "bonus_points",
+      "summary": "IHG targeted rolling offer (email invite): earn 40,000 bonus points after a 4-consecutive-night stay at a participating Iberostar Beachfront Resort, plus 10,000 more for booking via the IHG app = up to 50,000. One registration, one 4-night stay. Registration and booking must happen within 30 days of the first email (current wave: by 2026-12-08); stay by 2027-08-08. Must book direct via IHG website/app (Iberostar.com excluded). Note: the same 40K/50K structure was reported in late September — this is the new November wave; targeted members only.",
+      "key_dates": "Register + book by 2026-12-08; stay by 2027-08-08; min 4 consecutive nights",
+      "official_url": "https://www.ihg.com/onerewards/content/gb/en/return-stay-lifecycle-iberostar-emeaa-2026",
+      "source_urls": ["https://loyaltylobby.com/2026-11-09/ihg-one-rewards-50000-bonus-points-for-iberostar-stay-by-august-8-2027-book-by-december-8/"],
+      "announced": "2026-11-09",
+      "first_seen": "2026-11-10",
+      "confidence": "medium"
+    },
+    {
+      "brand": "IHG",
+      "title": "IHG 3X Points at voco & Garner (extended through December 31, 2026)",
+      "type": "bonus_points",
+      "summary": "IHG's separate 3X Points offers for voco and Garner stays (each targeted, one registration each) extended from 2026-12-06 to 2026-12-31 (announced 2026-11-08). Official terms updated: Promotion Period 2026-10-06 to 2026-12-31; total earn = base + 200% bonus = 3x points; one registration per offer, one room per night.",
+      "key_dates": "Register + stay by 2026-12-31 (extended from 12-06)",
+      "official_url": "https://www.ihg.com/content/us/en/deals/member-offers/voco3x26",
+      "source_urls": [
+        "https://loyaltylobby.com/2026-11-08/ihg-extends-voco-garner-triple-points-offers-through-december-31-2026/",
+        "https://theflightwire.com/story/ihg-extends-voco-garner-triple-points-offers-through-december-31-2026-9d7a72be14ccf56f68d8f30e"
+      ],
+      "announced": "2026-11-08",
+      "first_seen": "2026-11-10",
+      "confidence": "high"
+    },
+    {
+      "brand": "IHG",
+      "title": "IHG One Rewards points purchase: 100% bonus + extra 100% 'Mystery Bonus' (sale extended to Nov 10)",
+      "type": "buy_points_bonus",
+      "summary": "IHG points purchase sale: 100% bonus on points purchased, plus members selected at purchase time receive an additional 100% 'Mystery Bonus'; purchase cap raised to $1,000 (up to 100,000 points); sale extended until 2026-11-10.",
+      "key_dates": "Purchase by 2026-11-10 (extended from 11-03); cap $1,000 / 100,000 points",
+      "official_url": "https://www.ihg.com/content/us/en/points-purchase-offers",
+      "source_urls": [
+        "https://loyaltylobby.com/2026-11-07/extended-ihg-buy-points-100-mystery-bonus-sale-with-increased-limit-until-november-10-2026/",
+        "https://theflightwire.com/story/ihg-extends-100-bonus-mystery-bonus-points-purchase-sale-through-november-10-2026-4f52883d55f25825e7d47a32"
+      ],
+      "announced": "2026-11-07",
+      "first_seen": "2026-11-08",
+      "confidence": "high"
+    },
+    {
+      "brand": "Marriott",
+      "title": "Marriott Bonvoy 'Exclusive for You' targeted 40% off rate (new November cycle)",
+      "type": "rate_discount",
+      "summary": "Marriott's recurring targeted rate discount: invited members get 40% off (non-invited see 20/25%). Each email cycle opens a new 30-day window; a new cycle was reported 2026-11-06 (code QW45). Invitation email required to register.",
+      "key_dates": "Register + book by 2026-11-09 (30 days from the 10-10 email cycle); stay by 2027-06-28",
+      "official_url": "https://www.marriott.com/loyalty/offers/offers-page.mi?offerCode=47996",
+      "source_urls": [
+        "https://loyaltylobby.com/2026-10-10/ihg-and-marriott-launch-new-offers-this-week-marriott-exclusive-for-you-20-or-40-off-through-september-2026/",
+        "https://theflightwire.com/story/new-cycle-of-marriott-bonvoy-exclusive-for-you-offers-opens-in-november-3147354d5d5e3b926850b96c"
+      ],
+      "announced": "2026-11-06",
+      "first_seen": "2026-11-08",
+      "confidence": "medium"
+    },
+    {
+      "brand": "Meliá",
+      "title": "MeliáRewards × LotSmiles: 30,000 LotSmiles welcome + status match + 25% bonus points",
+      "type": "status_match",
+      "summary": "MeliáRewards × LATAM LotSmiles partnership (announced 2026-11-06): 30,000 LotSmiles for new LotSmiles members (opt-in required), two-way status match (Meliá Diamond ↔ LotMiles Platinum, 12 months), 25% LotSmiles bonus on Meliá stays, plus 5% MeliáRewards bonus points.",
+      "key_dates": "Opt-in + status match by 2026-12-31 (some benefits until 2027-01-31); match valid 12 months",
+      "official_url": null,
+      "source_urls": [
+        "https://www.meliá.com/en/",
+        "https://loyaltylobby.com/2026-11-06/meliarewards-launches-new-partnership-with-latams-lotsmiles-program-offering-up-to-30000-points-status-match-and-25-bonus-points/",
+        "https://30miles.com/meliarewards-lotsmiles-partnership-30000-points-status-match-25-bonus-points/"
+      ],
+      "announced": "2026-11-06",
+      "first_seen": "2026-11-08",
+      "confidence": "high"
+    },
+    {
+      "brand": "Accor",
+      "title": "ALL × Visa: up to 25,000–250,000 Visa Infinite Points (tiered by ALL level, US, through Dec 31)",
+      "type": "points_bonus",
+      "summary": "ALL membership × Visa partnership (US, via Accor's official news page, effective 2026-11-06, reported 11-07): Visa Infinite and above cardholders earn one-time Visa Infinite Points by level — Silver 25,000 / Gold 50,000 / Platinum 150,000 / Elite 250,000.",
+      "key_dates": "Book by 2026-12-31, stay by 2027-03-31; one-time per card",
+      "official_url": "https://all.accor.com/member/en/news/accor-visa-partnership.html",
+      "source_urls": [
+        "https://all.accor.com/member/en/news/accor-visa-partnership.html",
+        "https://loyaltylobby.com/2026-11-07/accor-launches-all-visa-partnership-earning-visa-infinite-points-by-all-tier-through-december-31-2026/"
+      ],
+      "announced": "2026-11-06",
+      "first_seen": "2026-11-09",
+      "confidence": "high"
+    },
+    {
+      "brand": "IHG",
+      "title": "IHG × Amex: 5% cashback on IHG One Rewards stays (4 US Amex cards, through Jan 31, 2027)",
+      "type": "cashback",
+      "summary": "IHG partnership with American Express (announced 2026-11-05, effective 11-06): IHG One Rewards members holding an Amex Platinum/Gold/Blue/Everyday card earn 5% cashback on direct IHG bookings (points-redemption stays excluded). Different offer IDs per card (51392–51397).",
+      "key_dates": "Book between 2026-11-06 and 2027-01-31",
+      "official_url": "https://www.ihg.com/content/us/en/deals/member-offers/51392",
+      "source_urls": [
+        "https://www.ihg.com/content/us/en/deals/member-offers/51392",
+        "https://loyaltylobby.com/2026-11-05/ihg-one-rewards-launches-american-express-cashback-partnership-earn-5-cashback-on-stays-through-january-31-2027/",
+        "https://theflightwire.com/story/ihg-launches-5-cashback-offer-with-american-express-partnership-670e60a5eb219d77a1957eab",
+        "https://www.americanexpress.com/en-us/travel/hotels/ihg-hotels-resorts.csp"
+      ],
+      "announced": "2026-11-05",
+      "first_seen": "2026-11-09",
+      "confidence": "high"
+    },
+    {
+      "brand": "Marriott",
+      "title": "Marriott Bonvoy Escapes: 40–55% off select hotels (code QRI, through Nov 15)",
+      "type": "rate_sale",
+      "summary": "Marriott Bonvoy Escapes last-minute sale: 40–55% off select hotels with code QRI; book by 2026-11-15.",
+      "key_dates": "Book by 2026-11-15; announced 2026-11-04",
+      "official_url": "https://www.marriott.com/offers/last-minute-hotel-deals.mi",
+      "source_urls": ["https://www.marriott.com/offers/last-minute-hotel-deals.mi"],
+      "announced": "2026-11-04",
+      "first_seen": "2026-11-06",
+      "confidence": "high"
+    },
+    {
+      "brand": "Marriott",
+      "title": "citizenM: 5,000 bonus points per stay (code S2449, through Nov 21)",
+      "type": "bonus_points",
+      "summary": "citizenM (Marriott portfolio): earn 5,000 bonus points per stay with code S2449; new round reported 2026-11-05, valid through 2026-11-21.",
+      "key_dates": "Stay by 2026-11-21; one bonus per stay",
+      "official_url": "https://www.marriott.com/offers/citizenm-get-5-000-bonus-points-per-stay-off-255026",
+      "source_urls": [
+        "https://www.marriott.com/offers/citizenm-get-5-000-bonus-points-per-stay-off-255026",
+        "https://loyaltylobby.com/2026-11-05/ihg-and-marriott-launch-new-offers-this-week-earn-5-000-bonus-points-at-citizenm-hotels-through-november-21-2026/"
+      ],
+      "announced": "2026-11-05",
+      "first_seen": "2026-11-06",
+      "confidence": "high"
+    },
+    {
+      "brand": "Chase",
+      "title": "Chase Marriott Bonvoy Boundless: 200,000-point welcome (grandfathered baseline, card offer rotates)",
+      "type": "credit_card",
+      "summary": "Chase Marriott Bonvoy Boundless Card 200,000-point welcome bonus (baseline entry from 2026-11-05; credit-card offers rotate — grandfathered in the baseline, not re-announced).",
+      "key_dates": "See card page (rotating offer)",
+      "official_url": "https://creditcards.chase.com/travel-credit-cards/marriott-bonvoy/boundless",
+      "source_urls": ["https://creditcards.chase.com/travel-credit-cards/marriott-bonvoy/boundless"],
+      "announced": "2026-11-05",
+      "first_seen": "2026-11-06",
+      "confidence": "high"
+    },
+    {
+      "brand": "Hyatt",
+      "title": "World of Hyatt credit card: 4 Free Night Certificate welcome (grandfathered baseline, card offer rotates)",
+      "type": "credit_card",
+      "summary": "World of Hyatt credit card 4 Free Night Certificate welcome bonus (baseline entry from 2026-11-05; no official URL available; grandfathered in the baseline, not re-announced).",
+      "key_dates": "See issuer card page (rotating offer)",
+      "official_url": null,
+      "source_urls": [],
+      "announced": "2026-11-05",
+      "first_seen": "2026-11-06",
+      "confidence": "medium"
+    }
+  ]
+}
